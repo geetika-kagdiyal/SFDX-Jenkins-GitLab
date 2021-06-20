@@ -1,0 +1,1 @@
+copy C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\SFDX-Jenkins-GitLab\DeltaChanges\destructiveChanges.xml C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\SFDX-Jenkins-GitLab\destructive /Y
